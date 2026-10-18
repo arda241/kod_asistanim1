@@ -13,7 +13,7 @@ Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak
 >    Yeniden girdi iste
 >  Değilse:
 >    `Anlık_Yük = Hesapla(girdi_degeri)`
-> Eğer `Anlık_Yük > KRITIK_ESIK_DEGERI` (Örn: 100 birim):
+> Eğer `Anlık_Yük > KRITIK_ESIK_DEGERI`:
 >      `Uyarı: Sistem kritik eşiğe ulaştı, işlem güvenli modda sınırlandırılıyor.` mesajını göster
 >    Değilse:
 >      İşlemi normal akışında çalıştır ve sonucu ekrana yazdır
