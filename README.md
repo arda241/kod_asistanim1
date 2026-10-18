@@ -14,7 +14,7 @@ Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak
 >  Değilse:
 >    `Anlık_Yük = Hesapla(girdi_degeri)`
 > Eğer `Anlık_Yük > KRITIK_ESIK_DEGERI`:
->      `Uyarı: Sistem kritik eşiğe ulaştı, işlem güvenli modda sınırlandırılıyor.` mesajını göster
+>      `Uyarı: Sistem kritik eşiğe ulaştı.` mesajını göster
 >    Değilse:
 >      İşlemi normal akışında çalıştır ve sonucu ekrana yazdır
 >  Bitiş
